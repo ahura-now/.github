@@ -1,1 +1,1 @@
-Hello!
+![Ahura Banner](banner.svg)
